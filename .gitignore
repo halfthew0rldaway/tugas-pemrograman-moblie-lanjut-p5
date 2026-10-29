@@ -1,0 +1,30 @@
+# Dependensi
+node_modules/
+package-lock.json
+
+# Expo & Build artifacts
+.expo/
+dist/
+web-build/
+android/
+ios/
+
+# Berkas privat / tugas modul (sesuai instruksi)
+docs/
+LAPORAN_TUGAS_P5.md
+ss/
+
+# Logs & Temporary files
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+.system_generated/
+
+# Sistem operasi & IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
