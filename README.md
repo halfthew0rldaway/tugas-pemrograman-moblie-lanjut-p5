@@ -1,7 +1,8 @@
-# Dashboard Pengelolaan Peminjaman Buku Perpustakaan
+# Wisnu Widya Pradana (NIM: 411231088)
+## Dashboard Pengelolaan Peminjaman Buku Perpustakaan
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mahasiswa-Wisnu%20Widya%20Pradana-1E40AF?style=for-the-badge" alt="Nama Mahasiswa" />
+  <img src="https://img.shields.io/badge/Nama-Wisnu%20Widya%20Pradana-1E40AF?style=for-the-badge" alt="Nama Mahasiswa" />
   <img src="https://img.shields.io/badge/NIM-411231088-047857?style=for-the-badge" alt="NIM Mahasiswa" />
   <img src="https://img.shields.io/badge/Mata%20Kuliah-Pemrograman%20Mobile%20Lanjut-6D28D9?style=for-the-badge" alt="Mata Kuliah" />
 </p>
